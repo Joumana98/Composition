@@ -147,4 +147,4 @@ private:
 	int entriesNb;
 };
 
-endif  H-tess
+#endif  H-tess
